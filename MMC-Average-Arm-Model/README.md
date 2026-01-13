@@ -58,4 +58,5 @@ This model serves as a validation platform for:
 ### How to Run
 1. **Clone the repository:**
    ```bash
-   git clone [link to repository]
+
+   git clone https://github.com/prof-jb/Renewable-Energy-Portfolio.git
